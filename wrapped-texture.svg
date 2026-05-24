@@ -1,0 +1,20 @@
+<svg width="202" height="202" xmlns="http://www.w3.org/2000/svg">
+  <!-- Define the checkerboard pattern -->
+  <defs>
+    <pattern id="checkerboard" x="5" y="5" width="10" height="10" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="5" height="5" fill="#606060"/>
+      <rect x="5" y="5" width="5" height="5" fill="#606060"/>
+      <rect x="5" y="0" width="5" height="5" fill="#a0a0a0"/>
+      <rect x="0" y="5" width="5" height="5" fill="#a0a0a0"/>
+    </pattern>
+  </defs>
+  
+  <!-- Background with checkerboard -->
+  <rect width="202" height="202" fill="url(#checkerboard)"/>
+  
+  <!-- Your image -->
+  <image x="2" y="2" width="200" height="200" href="https://private-user-images.githubusercontent.com/223481293/597340117-f68c93ca-d649-42b3-8acc-6703e2251944.png"/>
+  
+  <!-- Border -->
+  <rect x="1" y="1" width="201" height="201" fill="none" stroke="black" stroke-width="1"/>
+</svg>
