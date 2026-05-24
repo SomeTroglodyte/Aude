@@ -13,7 +13,7 @@
   <rect width="202" height="202" fill="url(#checkerboard)"/>
   
   <!-- Your image -->
-  <image x="2" y="2" width="200" height="200" href="https://private-user-images.githubusercontent.com/223481293/597340117-f68c93ca-d649-42b3-8acc-6703e2251944.png"/>
+  <image x="2" y="2" width="200" height="200" href="https://github.com/SomeTroglodyte/Aude/blob/main/597340117-f68c93ca-d649-42b3-8acc-6703e2251944.png?raw=true"/>
   
   <!-- Border -->
   <rect x="1" y="1" width="201" height="201" fill="none" stroke="black" stroke-width="1"/>
